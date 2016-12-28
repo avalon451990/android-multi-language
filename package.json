@@ -1,0 +1,9 @@
+{
+  "name": "multi-language",
+  "version": "1.0.0",
+  "description": "shelljs",
+  "main": "buildXML.js",
+  "dependencies": {
+    "shelljs": "^0.7.0"
+  }
+}
